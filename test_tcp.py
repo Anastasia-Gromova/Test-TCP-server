@@ -15,7 +15,7 @@ import signal
 
 '''
 Command:
-python3 /path/to/main.py
+python3 /path/to/test_tcp.py
 
 -m [msg] if not defined - random message of -b bytes will be sent
 -c [connections] number of connections
